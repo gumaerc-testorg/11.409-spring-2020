@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f4b9a3a7-3a80-b52a-8fd6-4f90bdf84558
 ---
@@ -133,7 +135,7 @@ Optional:
 *   Hayek, "Economics and Knowledge"
 *   Hayek, "The Use of Knowledge in Society"
 *   Hicks, "Free Market and Religious Fundamentalists versus Poor Relief"
-*   Marx, "The 18th Brumaire of Louis Bonaparte"
+*   Marx, "The 18{{< sup "th" >}} Brumaire of Louis Bonaparte"
 *   Polanyi, "Our Obsolete Market Mentality"
 *   Posner and Weyl, _Radical Markets_, introduction
 *   Somers and Block, "A Reply to Hicks"

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Bibliography
 uid: 666beec1-3118-ce81-58b0-0abb8000b737
 ---
@@ -165,7 +167,7 @@ Maclean, Nancy. 2018. _Democracy in Chains: The Deep History of the Radical Righ
 
 ———. 2018. [“The GOP's Long Game”](https://www.youtube.com/watch?v=rMHPH96Z3ic) interview on _Real Time with Bill Maher_, 8/4/2018. (YouTube)
 
-Marx, Karl. 1972 \[1978\]. “The 18th Brumaire of Louis Bonaparte” in Robert Tucker (ed.), _The Marx-Engels Reader_. Norton & Company. ISBN: 9780393090406
+Marx, Karl. 1972 \[1978\]. “The 18{{< sup "th" >}} Brumaire of Louis Bonaparte” in Robert Tucker (ed.), _The Marx-Engels Reader_. Norton & Company. ISBN: 9780393090406
 
 ———. “The German Ideology” pp. 387-406 in Frank Dobbin. 2004. (ed.) _The New Economic Sociology: A Reader_. Princeton University Press. ISBN: 9780691049069
 
@@ -219,7 +221,7 @@ Roy, Ananya. 2005. [“Urban Informality: Toward an Epistemology of Planning.”
 
 ———. 2012. [“Subjects of Risk: Technologies of Gender in the Making of Millennial Modernity.”](https://read.dukeupress.edu/public-culture/article/24/1%20(66)/131/31022/Subjects-of-Risk-Technologies-of-Gender-in-the) _Public Culture_ 24(1) 131–155.
 
-———. 2015. “Urban Informality: The Production and Regulation of Space.” _International Encyclopedia of the Social & Behavioral Sciences_, 2nd edition, Volume 24. ISBN: 9780080970868
+———. 2015. “Urban Informality: The Production and Regulation of Space.” _International Encyclopedia of the Social & Behavioral Sciences_, 2{{< sup "nd" >}} edition, Volume 24. ISBN: 9780080970868
 
 Sandel, Michael J. 2012. _What Money Can’t Buy: The Moral Limits of Markets._ Farrar, Straus, and Giroux. ISBN: 9780374533656
 
@@ -259,7 +261,7 @@ Turner, Fred. 2009. ![This resource may not render correctly in a screen reader.
 
 Williams, Eric. 1994. _Capitalism and Slavery._ University of North Carolina Press. ISBN: 9780807844885
 
-Zelizer, Viviana A. 1978. [“Human Values and the Market: The Case of Life Insurance and Death in 19th Century America.”](https://www.journals.uchicago.edu/doi/pdf/10.1086/226828) _American Journal of Sociology_ 84(3): 591–610.
+Zelizer, Viviana A. 1978. [“Human Values and the Market: The Case of Life Insurance and Death in 19{{< sup "th" >}} Century America.”](https://www.journals.uchicago.edu/doi/pdf/10.1086/226828) _American Journal of Sociology_ 84(3): 591–610.
 
 Ziewitz, Malte. 2016. [“Governing Algorithms: Myth, Mess, and Methods.”](https://journals.sagepub.com/doi/full/10.1177/0162243915608948) _Science, Technology & Human Values_. 41(1): 3–16.
 
