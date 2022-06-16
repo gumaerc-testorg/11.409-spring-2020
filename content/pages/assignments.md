@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page gives brief descriptions of the written assignments for 11.409
+  Institutions of Modern Capitalism.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
