@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: The topics for each week of 11.409 Institutions of Modern Capitalism,
+  along with a schedule of the assigned readings and due dates for each week.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f4b9a3a7-3a80-b52a-8fd6-4f90bdf84558
 ---
 
-For full details of the readings listed below, see the [Bibliography]({{< baseurl >}}/pages/bibliography) page. From among the weeks when reading responses are due, students select two weeks' readings to respond to; for descriptions of that assignment and the final paper assignment, see the [Assignments]({{< baseurl >}}/pages/assignments) page.
+For full details of the readings listed below, see the {{% resource_link 666beec1-3118-ce81-58b0-0abb8000b737 "Bibliography" %}} page. From among the weeks when reading responses are due, students select two weeks' readings to respond to; for descriptions of that assignment and the final paper assignment, see the {{% resource_link 0233c9f1-d92d-0c1d-5a14-1e9aef9b667e "Assignments" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -133,7 +137,7 @@ Optional:
 *   Hayek, "Economics and Knowledge"
 *   Hayek, "The Use of Knowledge in Society"
 *   Hicks, "Free Market and Religious Fundamentalists versus Poor Relief"
-*   Marx, "The 18th Brumaire of Louis Bonaparte"
+*   Marx, "The 18{{< sup "th" >}} Brumaire of Louis Bonaparte"
 *   Polanyi, "Our Obsolete Market Mentality"
 *   Posner and Weyl, _Radical Markets_, introduction
 *   Somers and Block, "A Reply to Hicks"

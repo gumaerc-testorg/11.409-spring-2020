@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The course description, course objectives, and grading policy for 11.409
+  Institutions of Modern Capitalism.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ec2c2a29-fd4c-deb3-5e47-b9d656d6d35d
 ---
@@ -29,7 +33,7 @@ This elective course is primarily aimed at master's and doctoral students in [DU
 Course Materials
 ----------------
 
-The course will expose students to some of the most creative and cutting-edge work on the politics of markets. To do so it draws on diverse materials including academic literature, films and videos, and articles from the popular media. Further, the scholarly material is multi-disciplinary, drawing particularly from political economy and economic sociology, but also anthropology, urban studies, history, science and technology studies, economics, postcolonial studies, and geography.1 The reading will average around 3–4 items per week (but less than 100 pages). Each class will begin with an introduction that situates the material in broader theoretical debates before turning to group discussion of the relationship between these debates and policy outcomes.2
+The course will expose students to some of the most creative and cutting-edge work on the politics of markets. To do so it draws on diverse materials including academic literature, films and videos, and articles from the popular media. Further, the scholarly material is multi-disciplinary, drawing particularly from political economy and economic sociology, but also anthropology, urban studies, history, science and technology studies, economics, postcolonial studies, and geography.{{< sup "1" >}} The reading will average around 3–4 items per week (but less than 100 pages). Each class will begin with an introduction that situates the material in broader theoretical debates before turning to group discussion of the relationship between these debates and policy outcomes.{{< sup "2" >}}
 
 Assessment and Grading
 ----------------------
@@ -87,6 +91,6 @@ MIT Writing Support
 The MIT [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) \[note: only open to MIT students\] offers free one-on-one professional advice from communication experts. No matter what department or discipline you are in, the WCC helps you think your way more deeply into your topic, and helps you see new implications in your data, research, and ideas. The WCC also helps with non-native speaker issues, from writing and grammar to pronunciation and conversation practice.
 
   
-1 The course's [Calendar]({{< baseurl >}}/pages/calendar) page also includes a list of optional readings under each weekly heading, and the [Bibliography]({{< baseurl >}}/pages/bibliography) page lists further additional readings (at the end of the document) that may be of assistance to students’ thesis and dissertation research. I will update the latter over the course of the semester and am happy to work with students to identify additional readings that may be of use in advancing their research interests.
+{{< sup "1" >}} The course's {{% resource_link f4b9a3a7-3a80-b52a-8fd6-4f90bdf84558 "Calendar" %}} page also includes a list of optional readings under each weekly heading, and the {{% resource_link 666beec1-3118-ce81-58b0-0abb8000b737 "Bibliography" %}} page lists further additional readings (at the end of the document) that may be of assistance to students’ thesis and dissertation research. I will update the latter over the course of the semester and am happy to work with students to identify additional readings that may be of use in advancing their research interests.
 
-2 This syllabus has benefited from (and continues to benefit from) syllabi of colleagues at many other institutions. The title and much of the "Foundations" section is a nod to the highly recommended "Political Economy of Modern Capitalism" at Harvard organized by Sven Beckert and Chris Desan.
+{{< sup "2" >}} This syllabus has benefited from (and continues to benefit from) syllabi of colleagues at many other institutions. The title and much of the "Foundations" section is a nod to the highly recommended "Political Economy of Modern Capitalism" at Harvard organized by Sven Beckert and Chris Desan.
