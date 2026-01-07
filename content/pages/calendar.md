@@ -266,7 +266,7 @@ Optional:
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-11\. Algorithmic Governance (guest speaker {{% resource_link "61c1c144-d41e-4ffb-91e0-18beb4048b83" "Anush Kapadia" %}}, IIT Bombay)
+11\. Algorithmic Governance (guest speaker [Anush Kapadia](https://www.cps.iitb.ac.in/people/anush-kapadia/), IIT Bombay)
 {{< tdclose >}}{{< tdopen >}}
 
 - Benjamin, *Race after Technology*
